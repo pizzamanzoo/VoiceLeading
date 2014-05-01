@@ -1,7 +1,6 @@
 #include<iostream>
 #include<string>
 
-//Hello world!
 
 void setNotes(std::string notes[17])
 {
